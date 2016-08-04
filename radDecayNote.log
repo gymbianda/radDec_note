@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 AUG 2016 17:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 AUG 2016 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,7 +589,7 @@ Non-PDF special ignored!
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1]
 
-LaTeX Warning: File `pseudoscalar.eps' not found on input line 191.
+LaTeX Warning: File `pseudoscalar.eps' not found on input line 189.
 
 Package epstopdf Info: Source file: <pseudoscalar.eps>
 (epstopdf)             Output file: <pseudoscalar-eps-converted-to.pdf>
@@ -597,14 +597,14 @@ Package epstopdf Info: Source file: <pseudoscalar.eps>
 (epstopdf)                    size: 93582 bytes
 (epstopdf)             Command: <repstopdf --outfile=pseudoscalar-eps-converted
 -to.pdf pseudoscalar.eps>
-(epstopdf)             \includegraphics on input line 191.
+(epstopdf)             \includegraphics on input line 189.
 Package epstopdf Info: Output file is already uptodate.
 <pseudoscalar-eps-converted-to.pdf, id=19, 597.23125pt x 398.48875pt>
 File: pseudoscalar-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pseudoscalar-eps-converted-to.pdf>
 Package pdftex.def Info: pseudoscalar-eps-converted-to.pdf used on input line 1
-91.
+89.
 (pdftex.def)             Requested size: 241.84842pt x 161.36882pt.
 Package epstopdf Info: Source file: <vector.eps>
 (epstopdf)                    date: 2010-04-21 11:42:25
@@ -614,36 +614,36 @@ Package epstopdf Info: Source file: <vector.eps>
 (epstopdf)                    size: 92764 bytes
 (epstopdf)             Command: <repstopdf --outfile=vector-eps-converted-to.pd
 f vector.eps>
-(epstopdf)             \includegraphics on input line 196.
+(epstopdf)             \includegraphics on input line 194.
 Package epstopdf Info: Output file is already uptodate.
 
 <vector-eps-converted-to.pdf, id=20, 597.23125pt x 398.48875pt>
 File: vector-eps-converted-to.pdf Graphic file (type pdf)
 
 <use vector-eps-converted-to.pdf>
-Package pdftex.def Info: vector-eps-converted-to.pdf used on input line 196.
+Package pdftex.def Info: vector-eps-converted-to.pdf used on input line 194.
 (pdftex.def)             Requested size: 241.84842pt x 161.36882pt.
 
-Overfull \hbox (65.20705pt too wide) in paragraph at lines 190--200
+Overfull \hbox (65.20705pt too wide) in paragraph at lines 188--198
 [][]  [] 
  []
 
 [2 <./pseudoscalar-eps-converted-to.pdf> <./vector-eps-converted-to.pdf>]
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 300--312
+Underfull \hbox (badness 10000) in paragraph at lines 298--310
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 313.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 311.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 313.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 311.
  [4]
 
-LaTeX Warning: File `backgrgauge.eps' not found on input line 360.
+LaTeX Warning: File `backgrgauge.eps' not found on input line 358.
 
 Package epstopdf Info: Source file: <backgrgauge.eps>
 (epstopdf)             Output file: <backgrgauge-eps-converted-to.pdf>
@@ -651,22 +651,22 @@ Package epstopdf Info: Source file: <backgrgauge.eps>
 (epstopdf)                    size: 4686 bytes
 (epstopdf)             Command: <repstopdf --outfile=backgrgauge-eps-converted-
 to.pdf backgrgauge.eps>
-(epstopdf)             \includegraphics on input line 360.
+(epstopdf)             \includegraphics on input line 358.
 Package epstopdf Info: Output file is already uptodate.
 <backgrgauge-eps-converted-to.pdf, id=38, 415.5525pt x 77.28876pt>
 File: backgrgauge-eps-converted-to.pdf Graphic file (type pdf)
 
 <use backgrgauge-eps-converted-to.pdf>
-Package pdftex.def Info: backgrgauge-eps-converted-to.pdf used on input line 36
-0.
+Package pdftex.def Info: backgrgauge-eps-converted-to.pdf used on input line 35
+8.
 (pdftex.def)             Requested size: 426.79134pt x 79.38187pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--367
+Underfull \hbox (badness 10000) in paragraph at lines 354--365
 
  []
 
 
-LaTeX Warning: File `box3.eps' not found on input line 377.
+LaTeX Warning: File `box3.eps' not found on input line 375.
 
 Package epstopdf Info: Source file: <box3.eps>
 (epstopdf)             Output file: <box3-eps-converted-to.pdf>
@@ -674,26 +674,26 @@ Package epstopdf Info: Source file: <box3.eps>
 (epstopdf)                    size: 8532 bytes
 (epstopdf)             Command: <repstopdf --outfile=box3-eps-converted-to.pdf 
 box3.eps>
-(epstopdf)             \includegraphics on input line 377.
+(epstopdf)             \includegraphics on input line 375.
 Package epstopdf Info: Output file is already uptodate.
 <box3-eps-converted-to.pdf, id=39, 328.22626pt x 277.035pt>
 File: box3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use box3-eps-converted-to.pdf>
-Package pdftex.def Info: box3-eps-converted-to.pdf used on input line 377.
+Package pdftex.def Info: box3-eps-converted-to.pdf used on input line 375.
 (pdftex.def)             Requested size: 262.58136pt x 221.6283pt.
  [5] [6 <./backgrgauge-eps-converted-to.pdf> <./box3-eps-converted-to.pdf>] [7]
  [8] [9]
 <ME.pdf, id=82, 500.87125pt x 365.365pt>
 File: ME.pdf Graphic file (type pdf)
  <use ME.pdf>
-Package pdftex.def Info: ME.pdf used on input line 560.
+Package pdftex.def Info: ME.pdf used on input line 558.
 (pdftex.def)             Requested size: 341.43306pt x 249.0693pt.
 
 <MM2.pdf, id=83, 915.42pt x 357.335pt>
 File: MM2.pdf Graphic file (type pdf)
  <use MM2.pdf>
-Package pdftex.def Info: MM2.pdf used on input line 571.
+Package pdftex.def Info: MM2.pdf used on input line 569.
 (pdftex.def)             Requested size: 426.79134pt x 166.59525pt.
 
 
@@ -702,7 +702,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <MMP.pdf, id=84, 272.01625pt x 269.005pt>
 File: MMP.pdf Graphic file (type pdf)
  <use MMP.pdf>
-Package pdftex.def Info: MMP.pdf used on input line 582.
+Package pdftex.def Info: MMP.pdf used on input line 580.
 (pdftex.def)             Requested size: 227.62204pt x 225.11298pt.
 
 
@@ -711,7 +711,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Egam_alpha.pdf, id=85, 617.30624pt x 492.84125pt>
 File: Egam_alpha.pdf Graphic file (type pdf)
  <use Egam_alpha.pdf>
-Package pdftex.def Info: Egam_alpha.pdf used on input line 593.
+Package pdftex.def Info: Egam_alpha.pdf used on input line 591.
 (pdftex.def)             Requested size: 341.43306pt x 272.59763pt.
 
 [10 <./ME.pdf>]
@@ -722,7 +722,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: Egam_Spipi_data.pdf Graphic file (type pdf)
 
 <use Egam_Spipi_data.pdf>
-Package pdftex.def Info: Egam_Spipi_data.pdf used on input line 601.
+Package pdftex.def Info: Egam_Spipi_data.pdf used on input line 599.
 (pdftex.def)             Requested size: 341.43306pt x 257.31157pt.
 
 
@@ -731,19 +731,19 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <P_alpha.pdf, id=100, 703.62875pt x 525.965pt>
 File: P_alpha.pdf Graphic file (type pdf)
  <use P_alpha.pdf>
-Package pdftex.def Info: P_alpha.pdf used on input line 609.
+Package pdftex.def Info: P_alpha.pdf used on input line 607.
 (pdftex.def)             Requested size: 341.43306pt x 255.22112pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [11 <./MM2.pdf> <./MMP.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 619--624
+Underfull \hbox (badness 10000) in paragraph at lines 617--622
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 628--630
+Underfull \hbox (badness 10000) in paragraph at lines 626--628
 
  []
 
@@ -774,7 +774,7 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on radDecayNote.pdf (16 pages, 742534 bytes).
+Output written on radDecayNote.pdf (16 pages, 742539 bytes).
 PDF statistics:
  219 PDF objects out of 1000 (max. 8388607)
  152 compressed objects within 2 object streams
